@@ -6,7 +6,7 @@ First, clone this repository
 https://github.com/mrmani15/next-todo.git
 ```
 
-go inside client directory, then
+go inside directory, then
 
 ```bash
 npm install
